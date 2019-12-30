@@ -1,0 +1,89 @@
+Alpaca
+Angora
+Sea Silk
+Cashmere
+Lambswool
+Mohair
+Llama
+Camel Hair
+Rabbit Fur
+Silk
+Wool
+Bamboo Silk
+Banana Leaf
+Kapok Silk
+Cotton
+Flax
+Hemp
+Jute
+Cloth of Gold
+Cloth of Silver
+Brocade
+Baize
+Barathea
+Batik
+Lace
+Bombazine
+Broadcloth
+Brocade
+Calico
+Cambric
+Canvas
+Chiffon
+chino
+Chintz
+Corduroy
+Crepe
+Crinoline
+Damask
+Denim
+Dimity
+Felt
+Flannel
+Frieze
+Fustian
+Gabardine
+Gante
+Gauze
+Gingham
+Gossamer
+Grosgrain
+Imberline
+Jacquard
+Lawn
+Loden
+Merino
+Muslin
+Oil Cloth
+Organdy
+Organza
+Paisley
+Pashmina
+Plaid
+Poplin
+Sateen
+Satin
+Serge
+Taffeta
+Tulle
+Tweed
+Twill
+Velour
+Velvet
+Velveteen
+Worsted
+Zibeline
+Leather
+Fur
+Aniline Leather
+Buckskin
+Chamois
+Kidskin
+Patent Leather
+Suede
+Alligator Leather
+Bison Leather
+Calfskin
+Sealskin
+Sheepskin
+Stingray

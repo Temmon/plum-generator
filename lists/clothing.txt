@@ -1,0 +1,206 @@
+Blouse
+Bodice
+Camisole
+Cardigan
+Chemise
+Halter Top
+Henley
+Hoodie
+Jersey
+Leotard
+Polo
+T-Shirt
+Tube Top
+Crop Top
+Button-down
+Sweater
+Ball Gown
+Bandeau
+Skirt
+Swim Suit
+Shorts
+Pants
+Slip
+Bikini
+Blazer
+Bloomers
+Bolero
+Bomber Jacket
+Boots
+Bow Tie
+Boxers
+Boyshorts
+Bow tie
+Bra
+Brassiere
+Bralette
+Briefs
+Business suit
+Bustier
+Button down shirt
+Camisole
+Cape
+Capri Pants
+Cargo Pants
+Catsuit
+Chemise
+Circle skirt
+Cloche
+Cloak
+Cocktail dress
+Corset
+Cravat
+Cropped jacket
+Culottes
+Cummerbund
+Dinner Jacket
+Divided skirt
+Dolman sleeved shirt
+Double breasted jacket
+Doublet
+Dress
+Dressing Gown
+Dress Shirt
+Drindle skirt
+Dropped Waist Pants
+Duster
+Dungarees
+Empire waist dress
+Epaulet shirt
+Fingerless gloves
+Fit and Flare dress
+Gaiter
+Garter Belt
+Wedding Garter
+Girdle
+Gloves
+G string
+Handkerchief skirt
+Hat
+Henley shirt
+High Waist Pants
+High Waist Shorts
+High Waist Skirt
+Hobble skirt
+Hoop skirt
+Hoody
+House coat
+Infinity scarf
+Jacket
+Jeans
+Jogging Suit
+Jodhpurs
+Jumper
+Kimono
+Kimono Jacket
+Kaftan
+Kilt
+Knickers
+Leggings
+Tights
+Leg warmers
+Leotard
+Mantle
+Maxi Skirt
+Maxi Dress
+Belt
+Mittens
+Nightgown
+Obi
+Overalls
+Overskirt
+Padded Bra
+Pajama pants
+Palazzo pants
+Panel skirt
+Pannier
+Panty
+Pantyhose
+Peacoat
+Peasant Top
+Pedal pushers
+Pegged skirt
+Peignoir
+Pelisse
+Pencil skirt
+Peplum
+Petticoat
+Pinafore
+Play Suit
+Poet Sleeve Shirt
+Poncho
+Pullover
+Pajamas
+Rain Coat
+Raglan
+Riding habit
+Robe
+Romper
+Sack dress
+Sacque
+Sari
+Sarong
+Sash
+Scarf
+Waist Cincher
+Shawl
+Sheath Dress
+Shift Dress
+Shirt
+Shorts
+Shrug
+Singlet
+Slip
+Coat
+Skirt
+Sheath dress
+Shift dress
+Shirtwaist dress
+Hot pants
+Skort
+Slip dress
+Smoking jacket
+Socks
+Spencer
+Split skirt
+Stockings
+Stole
+Stirrup pants
+Suit
+Surplice
+Suspenders
+Sweater
+Sweatshirt
+Sweats
+Swim Trunks
+T-Shirt
+Tailcoat
+Tankini
+Tank top
+Tent Dress
+Trapeze Dress
+Swing Dress
+Thong
+Tie
+Tights
+Top
+Tracksuit
+Trainers
+Trench Coat
+Trousers
+Circular Scarf
+Snood
+Tunic
+Turtleneck
+Tuxedo Jacket
+Tuxedo
+Twin set
+Ulster
+Underwear
+Uniform
+Union suit
+Unitard
+Veil
+Waistcoat
+Wrap around skirt
+Wrap coat

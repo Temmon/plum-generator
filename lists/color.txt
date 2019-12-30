@@ -1,0 +1,271 @@
+blond
+blue
+brown
+green
+olive
+orange
+pink
+purple
+red
+salmon
+yellow
+azure
+cerulean
+sapphire
+lazuline
+sky-blue
+dark blue
+navy
+aqua
+aquamarine
+turquoise
+cobalt blue
+peacock blue
+powder blue
+Prussian blue
+purplish blue
+royal blue
+steel blue
+ultramarine
+chestnut brown
+chocolate brown
+coffee brown
+deep brown
+umber
+burnt umber
+hazel
+light brown
+mocha
+olive brown
+puce
+reddish brown
+sepia
+burnt sienna
+mahogany
+taupe
+yellowish brown
+raw sienna
+buff
+caramel brown
+bluish green
+blue green
+teal
+bottle green
+chrome green
+emerald
+jade green
+olive green
+sage green
+sea green
+yellow green
+yellowish green
+chartreuse
+pea green
+drab
+reddish orange
+carnation
+coral
+rose
+purplish pink
+yellowish pink
+apricot
+peach
+salmon pink
+lavender
+mauve
+reddish purple
+royal purple
+violet
+reddish blue
+cardinal
+carmine
+cerise
+cherry red
+crimson
+ruby
+deep red
+dark red
+purplish red
+sanguine
+scarlet
+vermilion
+orange red
+amber
+gold
+brownish yellow
+canary yellow
+lemon yellow
+greenish yellow
+old gold
+orange yellow
+saffron
+pale yellow
+straw
+wheat
+beige
+ecru
+dun
+greyish brown
+fawn
+tan
+topaz
+brick red
+copper
+cyan
+tangerine
+old rose
+indigo
+burgundy
+claret
+oxblood red
+wine-colored
+fuschia
+magenta
+maroon
+ochre
+Russet
+Plum
+Slate
+Persimmon
+Indigo
+Cyan
+Red
+Scarlet
+Orange
+Lime
+Chartreuse
+Green
+Yellow
+Khaki
+Capri
+Teal
+Purple
+Buff
+Harlequin
+Magenta
+Aquamarine
+Rose
+Azure
+Violet
+Amethyst
+Sage
+Viridian
+Vermilion
+Amber
+Cerulean
+Citron
+Ultramarine
+Blue
+Crimson
+Cerise
+Watchet
+burgundy
+cardinal
+carmine
+cherry
+coral
+crimson
+currant
+dive
+flame
+garnet
+maroon
+raspberry
+rose
+ruby
+salmon
+strawberry
+tomato
+vermillion
+wine
+aqua
+aquamarine
+azure
+cerulean
+cobalt
+delft
+navy
+peacock
+royal
+sapphire
+sky
+steel
+turquoise
+violet
+apricot
+beige
+buff
+butter
+buttercup
+butterscotch
+canary
+chartreuse
+citron
+gold
+lemon
+mustard
+ochre
+peach
+saffron
+straw
+topaz
+apple
+celery
+chartreuse
+emerald
+lime
+mint
+olive
+pistachio
+ivory
+marble
+milk
+oyster
+pearl
+platinum
+porcelain
+satin
+silver
+snow
+amethyst
+fuchsia
+lavender
+lilac
+magenta
+mauve
+mulberry
+orchid
+pansy
+plum
+chicory
+ebony
+jet
+licorice
+tar
+ashen
+dove
+pearl
+steel
+tangerine
+persimmon
+almond
+amber
+bay
+brandy
+bronze
+chocolate
+cinnamon
+coffee
+copper
+earth
+ginger
+hazel
+mahogany
+mousy
+nutmeg
+rust
+sandy
+sorrel
+tan
+tawny
+walnut

@@ -1,0 +1,56 @@
+Amaranth
+Arugula
+Beet
+Broccoli
+Cabbage
+Celery
+Chicory
+Mallow
+Cress
+Dandelion
+Dill
+Endive
+Fiddlehead
+Kale
+Lettuce
+Mustard
+Pea
+Radish
+Sorrel
+Spinach
+Chard
+Watercress
+Yarrow
+Bell Pepper
+Bitter Melon
+Cucumber
+Aubergine
+Pumpkin
+Squash
+Chili Pepper
+Tomato
+Zucchini
+Artichoke
+Cauliflower
+Chickpea
+Pea
+Asparagus
+Celeriac
+Celery
+Garlic
+Lemongrass
+Leek
+Onion
+Shallot
+Bamboo Shoot
+Carrot
+Ginger
+Jicama
+Parsnip
+Potato
+Salsify
+Sweet Potato
+Taro
+Turnip
+Yam
+Pickle

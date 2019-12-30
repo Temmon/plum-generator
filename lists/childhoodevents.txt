@@ -1,0 +1,59 @@
+Frequent moving.
+Parents separated.
+Parents divorced.
+As a young child, one parent died or disappeared.
+As a young child, both parents died or disappeared.
+As an adolescent, one parent died or disappeared.
+As an adolescent, both parents died or disappeared.
+Suffered a chronic illness or injury.
+Close family member suffered a chronic illness or injury.
+Friend suffered a chronic illness or injury.
+Suffered an acute illness or injury.
+Close family member suffered an acute illness or injury.
+Friend suffered an acute illness or injury.
+Had a close adult mentor.
+Had supportive parents.
+Consistently did poorly at school.
+Consistently did well at school.
+Grew up during a major conflict such as war.
+Grew up during a time of famine or depression.
+Grew up during a time of affluence.
+Grew up in poverty.
+Grew up in extreme wealth.
+Was ostracized by friends.
+Easily made friends.
+Parents frequently fought.
+Parents had a visibly loving relationship.
+Parents were emotionally distant.
+Parents were overly demanding.
+Parents were overly permissive.
+Had responsibility for an animal.
+Had responsibility for someone younger.
+Had a significant romantic relationship as an adolescent.
+Was frequently rejected for romantic relationships.
+Frequently fought physically with peers.
+Was a bully.
+Was bullied.
+Was pressured by family to act a certain way.
+Was pressured by peers to act a certain way.
+Had significant restrictions placed on daily activities.
+Was devoted to an academic, physical, or creative pursuit to the exclusion of all else.
+Family member was arrested.
+Family fought frequently (not necessarily including parents).
+Had a particularly bad teacher.
+Had a particularly good teacher.
+Travelled extensively.
+Never travelled.
+Made plans for a large event that didn't happen.
+Participated in a large-scale event (eg, the Olympics, the inauguration).
+Participated in a local event (eg a parade).
+Won a major competition.
+Embarrassed self at a major competition.
+Suddenly lost all friends (for any reason).
+Had a tight-knit friend group.
+Parents learned something important that had been kept secret.
+Worked from a young age.
+Was recognized from among peers for good work.
+Was recognized from among peers for bad work.
+Was censured by the community.
+Family had an extreme change in fortune (poor to rich or rich to poor most likely).

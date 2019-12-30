@@ -1,0 +1,350 @@
+Blouse
+Bodice
+Camisole
+Cardigan
+Chemise
+Crew Neck
+Halter Top
+Henley
+Hoodie
+Jersey
+Leotard
+Polo
+T-Shirt
+Tube Top
+Crop Top
+Button-down
+Sweater
+Baby Doll
+Ball Gown
+Bandeau
+Skirt
+Swim Suit
+Bell Bottoms
+Shorts
+Pants
+Slip
+Bikini
+Blazer
+Bloomers
+Bolero
+Bomber Jacket
+Bootcut
+Boots
+Bow Tie
+Boxers
+Boyfriend cut
+Boyfriend jeans
+Boyshorts
+Bow tie
+Bra/ Brassiere
+Bra & KnickerSet
+Bralette
+Briefs
+Brothel creeper shoes
+Brush train
+Burkha
+Bushirt sleeve
+Bush Jacket
+Business suit
+Bustier
+Button down shirt
+Bicycle clothing
+Camisole / Camisole tops
+Capelet sleeve
+Capelet train
+Capri Pants
+Cardigan
+Cargos
+Car coat
+Carpenter style
+Catsuit
+Cathedral train
+Chemise
+Chesterfield coat
+Circle skirt
+Cloche
+Cloak
+Cocktail dress
+Coif
+Compression tights
+Corset
+Court train
+Cover-up
+Cowl Neck style
+Cravat
+Crew neck
+Cropped jacket
+Crop top
+Cufflinks
+Culottes
+Cummerbund
+Debutante dress
+Dickey
+Dinner Jacket
+Divided skirt
+Dolman sleeve
+Double breasted style jacket
+Doublet
+Drape front
+Dress
+Dressing Gown
+Dress Shirt
+Drindle skirt
+Drainpipe pant
+Dropped Waist / Low Waist style
+Drop shoulder sleeved bodice
+Duffel Coat
+Duster coat
+Dupatta ( Odhani / Chunri)
+Dungarees
+Eastern pants
+Eisenhower Jacket
+Elephantine pants
+Empire waistband/ empire line style
+Envelope waist style
+Epaulet
+Epaulet shirt
+Eton Jacket
+Fanny wrap
+Fingerless gloves
+Fishtail Train
+Fit and Flare skirt
+Flannel shirt
+Fleece
+Foot socks / Footsies/ Footies
+Full Slips:
+Fur coat
+Gaiter
+Gallous
+Gaghra
+Garcon look
+Garter Belts
+Wedding Garter
+Gartini
+Gaucho pants
+Gibson sleeve
+Girdle
+Gloves
+Gore (Gusset)
+Gored skirt
+Grunge
+G string
+Half slip
+Handkerchief skirt
+Harem pants
+Halterneck
+Hat
+Hawaiian shirt
+Head dress
+Henley shirt
+Hijab
+High waist
+Hip hugger
+Hip rider skirt
+Hipster
+Hippie style
+Hobble skirt
+Hollywood Waistband
+Hoop skirt
+Hoody
+Hosiery
+House coat
+Hug me tight
+Infinity scarf
+Jacket
+Jardigan
+Jeans
+Jeggings
+Jilbab
+Jogging Suit
+Jodhpurs
+Jorts
+Jumper
+Khimar
+Kick pleated skirts
+Kimono
+Kimono Jacket
+Kaftan (Caftan)
+Kaffiyeh
+Kilt
+Kipper tie
+Knickers
+Knee Grazer
+Knickers
+Kurta
+Leggings (tights)
+Leg warmer
+Lehanga ( Ghagra)
+Leotard
+Lingerie
+Lounge wear
+Low waist
+Lycee
+Macintosh
+Marine look
+Mailot
+Mandals
+Mantle
+Maternity wear
+Maxi
+Meggings
+Men Mermaid style
+Military Belt
+Mitt
+Mittens
+Nightgown
+Nightwear
+Obi / Obi belt
+Off-The-Shoulder Neckline style
+Oilskin clothing
+Overalls
+Overskirt
+Padded Bra
+Pajama pants
+Palazzo pants
+Panel skirt
+Pannier
+Pant liner
+Panti liner
+Panty
+Pantyhose
+Parkha
+Pashmina
+Peacoat
+Peasant Top
+Pedal pushers
+Peek-a-boo style
+Pegged skirt
+Peignoir
+Pelisse
+Pencil skirt
+Peplum
+Petticoat
+Pheran
+Pinafore
+Play suit
+Plunge
+Plus size ( Queen Size)
+Poet sleeve
+Polo Shirt
+Poncho
+Ponte
+Princess Line
+Psychedelic
+Puckered bodice
+Pull on clothes
+Pullover
+Punk Pants
+Push up Bras
+Pyjamas
+Qipao
+Racer Back
+Rain Coat
+Raglan
+Rebozo
+Reefer
+Reversible
+Riding habit
+Robe
+Romper
+Sack dress
+Sacque
+Safari shirt
+Safari suit
+Sari
+Sark
+Sailor pants
+Sarong
+Sash
+Seamless panties
+Scarf
+Scooter
+Shapewear ( Waist nipper)
+Shawl
+Sharrara
+Sheath
+Shellsuit
+Shervani
+Shift Dress
+Shinos
+Shirt
+Shorts
+Shrug
+Singlet
+Slip
+Coat
+Ski Pants
+Skimmer pants
+Skirt
+Sheath dress
+Shift dress
+Shirred waist
+Shirtwaist dress
+Hot pants
+Skort
+Slip dress
+Smoking jacket
+Socks
+Spants
+Spencer
+Split skirt
+Stadium coat
+Stockings
+Stole
+Stirrup pants
+Strapless Bodice
+Straight pants
+Straight skirt
+Stretch slip
+Suit
+Summer Cardigan
+Surplice
+Suspenders
+Swacket
+Sweater
+Sweatshirt
+Sweats
+Sweep train
+Swimming Costume
+Swimming Shorts
+Swimming Trunks
+Tap pants
+T-Shirt
+Tailcoat male
+Tankini
+Tank top
+Tent/ Trapese/ Swing dress
+Thong
+Tie
+Tiered skirt
+Tights
+Top
+Toreador pants
+Tracksuit
+Trainers
+Treggings
+Trench Coat
+Trousers
+Trumpet skirt
+Tubular Scarf
+Circular Scarf
+Snood
+Tulip hemmed skirt
+Tunic
+Turban
+Turtleneck
+Tuxedo Jacket
+Tuxedo
+Twin set
+Ulster
+Underwear
+Uniform
+Union suit
+Unitard
+Veil
+Waistcoat
+Watteau
+Windsor Tie
+Wrap around skirt
+Wrap coat

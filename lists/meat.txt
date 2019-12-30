@@ -1,0 +1,72 @@
+beef
+bird
+fowl
+carbonado
+cold cuts
+escargot
+snail
+game
+jerky
+lamb
+mutton
+pemmican
+pork
+sausage
+organs
+veal
+ground beef
+pastrami
+poultry
+wildfowl
+brisket
+confit
+ribs
+roast
+sirloin
+steak
+tenderloin
+buffalo
+rabbit
+hare
+venison
+pepperoni
+salami
+sweetbreads
+offal
+tongue
+tripe
+chicken
+duck
+goose
+guinea hen
+squab
+dove
+turkey
+grouse
+partridge
+pheasant
+quail
+lamb chop
+mutton chop
+porkchop
+chuck
+short ribs
+sirloin tip
+bacon
+ham
+pork loin
+spareribs
+ham hock
+beefsteak
+fish steak
+beef tenderloin
+pork tenderloin
+fatback
+sowbelly
+broiler
+capon
+pullet
+hen
+duckling
+filet
+tournedos

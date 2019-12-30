@@ -1,0 +1,27 @@
+Earrings
+Hairpin
+Hatpin
+Crown
+Coronet
+Tiara
+Diadem
+Circlet
+Corolla
+Chaplet
+Choker
+Necklace
+Torc
+Pendant
+Armlet
+Bangle
+Bracelet
+Cuff links
+Ring
+Belly chain
+Brooch
+Anklet
+Toe ring
+Amulet
+Cameo
+Locket
+Medallion
