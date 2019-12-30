@@ -3,19 +3,19 @@ RUNNING
 
 You need python 3.6+ to run this.
 Create a virtualenv, which is good practice. I'll talk about why if you want to know.
-> python -m venv env
+\> python -m venv env
 Activate it
-> source env/bin/activate
+\> source env/bin/activate
 Now you can install modules without getting your main Python install bloated and confused.
 Install all the required modules for the server. You don't actually need to just to run the generator on the command line
-> pip install -r requirements.txt
+\> pip install -r requirements.txt
 
 To run without the server, open python in the main folder. In the console, run the following:
-> from api import randomizer
-> randomizers = r.randomizers()
+\> from api import randomizer
+\> randomizers = r.randomizers()
 Grab the one you want with, for example:
-> clothing = randomizers["clothing"]
-> clothing.make()
+\> clothing = randomizers["clothing"]
+\> clothing.make()
   'Carnation And Orange Nylon Panty'
 
 You can also run the server in linux and maybe mac with ./run.sh or on any? platform with python run.py, but this is just the backend so you can't see anything. You can make requests to the REST server that way though.
