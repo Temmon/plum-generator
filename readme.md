@@ -1,4 +1,5 @@
 RUNNING
+==========================
 
 You need python 3.6+ to run this.
 Create a virtualenv, which is good practice. I'll talk about why if you want to know.
@@ -22,6 +23,7 @@ You can also run the server in linux and maybe mac with ./run.sh or on any? plat
 
 
 FOLDERS AND FILES
+====================================
 
 Ignore the frontend folders, static, and views. Those are all for making a webpage, but you don't need them to run it (and it's not very good).
 
@@ -40,13 +42,15 @@ randomizer.py is the most interesting file. It's in charge of actually combining
 
 
 RANDOMIZER.PY
+===========================================================
 
-I used Python magic to actually combine the phrases. That's every function that starts with @interpret (which is a decorator and is an intermediate-advanced concept). The end effect is to take a pattern that looks something like this [[("!clothesdescriptor", .4), ("!color", 2), "!fabric", "!clothing"]] and turn it into "Silky Silver And Cobalt Blue Fustian Shawl".
+I used Python magic to actually combine the phrases. That's every function that starts with @interpret (which is a decorator and is an intermediate-advanced concept). The end effect is to take a pattern that looks something like this [[("!clothesdescriptor", .4), ("!color", 2), "!fabric", "!clothing"]] and turn it into "Silky Silver And Cobalt Blue Fustian Shawl". It's pretty complicated. You don't really need to know the details of the way it's processed as long as you can figure out what the patterns mean.
 
 
 
 
 SIMPLE EXAMPLE
+============================================================
 
 Here's how it works! Some terminology really fast. A list is surrounded with []. A tuple is surrounded with (). And a set is surrounded with set().
 
@@ -67,6 +71,7 @@ At this point, it knows that it's only working with a single string that doesn't
 
 
 MORE COMPLICATED EXAMPLE
+================================================================
 
 Let's try this one now: [[("!clothesdescriptor", .4), ("!color", 2), "!fabric", "!clothing"]]
 
