@@ -17,7 +17,7 @@ Grab the one you want with, for example:
 > clothing.make()
   'Carnation And Orange Nylon Panty'
 
-You can also run the server in linux with ./run.sh or probably python run.py
+You can also run the server in linux and maybe mac with ./run.sh or on any? platform with python run.py, but this is just the backend so you can't see anything. You can make requests to the REST server that way though.
 
 
 
